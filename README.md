@@ -14,3 +14,4 @@ If match, edit the file with wim and apply this command
 ```
 :%s#//istart\_.*iend##g
 ```
+More information : https://blog.sucuri.net/2015/03/pseudo-darkleech-server-root-infection.html
